@@ -4,6 +4,7 @@ Notes and files from our October 21, 2015 meeting.
 
 ## News We Discussed
 
+* [PHP RC 5 Released](http://php.net/archive/2015.php#id2015-10-15-2)
 * [Rogue Wave Acquires Zend](http://www.zend.com/en/resources/news-and-events/newsroom/press/3683_rogue-wave-software-acquires-enterprise-php-leader-zend-acquisition-broadens-enterprise-strength-across-top-five-development-languages)
 * [Zendcon 2015](http://www.zendcon.com/)
 * [ExpressionEngine 3 Released](https://ellislab.com/blog/entry/expressionengine-3-is-here)
@@ -18,7 +19,7 @@ Notes and files from our October 21, 2015 meeting.
 * [PHP RFC](https://wiki.php.net/rfc)
 * [/r/php](http://reddit.com/r/php)
 * [Tweet about PHP 7 Speed Boost](https://twitter.com/zeevs/status/656576827931017216)
-
+* [Laravel Homestead - now with PHP 7](http://laravel.com/docs/5.1/homestead)
 
 ## PHP 7 Demo
 
